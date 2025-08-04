@@ -7,52 +7,44 @@
       "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:queries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\entities\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:entities\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\services\\borrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:services\\borrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\services\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:services\\borrowerservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\services\\borrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:services\\borrowedbookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:entities\\review.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\entities\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:entities\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:entities\\book.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\entities\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:entities\\borrowedbook.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:services\\authorservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:services\\bookservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:services\\reviewservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\library management system task.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
@@ -61,6 +53,14 @@
     {
       "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:entities\\author.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|c:\\users\\xpristo\\desktop\\projects\\library management system task\\entities\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79D72F0C-F491-4986-BA75-6CEA09A5C1EF}|Library Management System Task.csproj|solutionrelative:entities\\borrower.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -91,7 +91,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 1,
               "Title": "BorrowedBookService.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Services\\BorrowedBookService.cs",
               "RelativeDocumentMoniker": "Services\\BorrowedBookService.cs",
@@ -99,12 +99,11 @@
               "RelativeToolTip": "Services\\BorrowedBookService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAuwAsAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T12:46:59.676Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T12:46:59.676Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "BorrowerService.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Services\\BorrowerService.cs",
               "RelativeDocumentMoniker": "Services\\BorrowerService.cs",
@@ -112,12 +111,11 @@
               "RelativeToolTip": "Services\\BorrowerService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T12:39:09.228Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T12:39:09.228Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
@@ -125,12 +123,11 @@
               "RelativeToolTip": "Program.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAABUAAABtAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T15:06:00.765Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T15:06:00.765Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\appsettings.json",
               "RelativeDocumentMoniker": "appsettings.json",
@@ -138,12 +135,11 @@
               "RelativeToolTip": "appsettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAByAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-08-02T15:27:46.608Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T15:27:46.608Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "Review.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Entities\\Review.cs",
               "RelativeDocumentMoniker": "Entities\\Review.cs",
@@ -151,12 +147,11 @@
               "RelativeToolTip": "Entities\\Review.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T15:35:44.341Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T15:35:44.341Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "Book.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Entities\\Book.cs",
               "RelativeDocumentMoniker": "Entities\\Book.cs",
@@ -164,12 +159,11 @@
               "RelativeToolTip": "Entities\\Book.cs",
               "ViewState": "AgIAAAkAAAAAAAAAAAAAACcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T16:42:05.325Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T16:42:05.325Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "BorrowedBook.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Entities\\BorrowedBook.cs",
               "RelativeDocumentMoniker": "Entities\\BorrowedBook.cs",
@@ -177,12 +171,11 @@
               "RelativeToolTip": "Entities\\BorrowedBook.cs",
               "ViewState": "AgIAAAQAAAAAAAAAAAAmwCUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-03T16:42:15.196Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T16:42:15.196Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 8,
               "Title": "AuthorService.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Services\\AuthorService.cs",
               "RelativeDocumentMoniker": "Services\\AuthorService.cs",
@@ -190,12 +183,11 @@
               "RelativeToolTip": "Services\\AuthorService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T12:26:56.316Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T12:26:56.316Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "BookService.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Services\\BookService.cs",
               "RelativeDocumentMoniker": "Services\\BookService.cs",
@@ -203,12 +195,11 @@
               "RelativeToolTip": "Services\\BookService.cs",
               "ViewState": "AgIAAAsAAAAAAAAAAAAYwCQAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T12:35:43.354Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T12:35:43.354Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ReviewService.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Services\\ReviewService.cs",
               "RelativeDocumentMoniker": "Services\\ReviewService.cs",
@@ -216,12 +207,11 @@
               "RelativeToolTip": "Services\\ReviewService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-04T12:50:55.069Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-04T12:50:55.069Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 11,
               "Title": "Library Management System Task.csproj",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Library Management System Task.csproj",
               "RelativeDocumentMoniker": "Library Management System Task.csproj",
@@ -229,12 +219,11 @@
               "RelativeToolTip": "Library Management System Task.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-08-03T15:20:58.383Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-03T15:20:58.383Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 12,
               "Title": "Author.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Entities\\Author.cs",
               "RelativeDocumentMoniker": "Entities\\Author.cs",
@@ -246,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 13,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
@@ -254,12 +243,11 @@
               "RelativeToolTip": "Data\\AppDbContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T15:35:26.208Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T15:35:26.208Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 14,
               "Title": "Borrower.cs",
               "DocumentMoniker": "C:\\Users\\XPRISTO\\Desktop\\Projects\\Library Management System Task\\Entities\\Borrower.cs",
               "RelativeDocumentMoniker": "Entities\\Borrower.cs",
@@ -267,8 +255,7 @@
               "RelativeToolTip": "Entities\\Borrower.cs",
               "ViewState": "AgIAAAYAAAAAAAAAAAAQwB4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-02T15:35:39.602Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-02T15:35:39.602Z"
             }
           ]
         },
