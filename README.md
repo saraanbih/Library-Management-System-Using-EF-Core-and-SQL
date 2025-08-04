@@ -41,7 +41,10 @@ LibraryManagementSystem/
 │
 ├── Program.cs            # Main entry point
 ├── mydatabase.sql        # Optional: SQL script for manual DB creation
-├── README.md             # Project documentation
+├── appsettings.json             
+├── ERD.png
+├── Mapping.png    
+├── README.md            # Project documentation  
 ```
 ---
 
@@ -53,6 +56,14 @@ LibraryManagementSystem/
 * **SQL Server** (Database backend)
 * **LINQ** (for expressive queries)
 * **Asynchronous Programming** (`Task`, `async/await`)
+
+---
+
+## ERD 
+<img width="836" height="457" alt="ERD" src="https://github.com/user-attachments/assets/f203a546-555e-4898-adbe-8a508ce5feb7" />
+
+## Mapping
+<img width="1279" height="646" alt="Mapping" src="https://github.com/user-attachments/assets/0b6d242f-c19b-4556-aab6-43594562f8fe" />
 
 ---
 
@@ -120,16 +131,6 @@ sqlcmd -S . -d master -i mydatabase.sql
 * **Fluent API**: More control over entity relationships than Data Annotations
 * **Async First**: Uses `Task`-based asynchronous methods
 * **Console UI**: Clean, readable prompts for user interaction
-
----
-
-## 📸 Screenshots (Optional)
-
-> *You can add screenshots or console output here using Markdown:*
-
-```
-![Screenshot](screenshots/main-menu.png)
-```
 
 ---
 
